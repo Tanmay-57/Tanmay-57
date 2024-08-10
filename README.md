@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Tanmay Shidhani</h1>
+<h1 align="center">Hi 👋, I'm Tanmay Shidhani</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 - 📫 How to reach me **tanmay.shidhani57@gmail.com**
